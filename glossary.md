@@ -16,7 +16,7 @@ Standard (aka Skill)
 Competency Map
 -Spreadsheet file that organizes content areas, competencies and standards for upload into the CBL tool
 -Organized with each content area on a separate worksheet
--Example of competency map [](https://docs.google.com/spreadsheets/u/2/d/1LnjTF5i2CeQrR9EQLB0llomtkpJ_xx38oyjat8wr2_g/edit)
+-[Example of competency map](https://docs.google.com/spreadsheets/u/2/d/1LnjTF5i2CeQrR9EQLB0llomtkpJ_xx38oyjat8wr2_g/edit)
 -Currently, concrete content areas like English and Math have the same year-over-year competencies and standards with the number of demonstrations required remaining the same at all levels. In the future, standards and number of demonstrations will need to be specified by level. 
 
 Demonstration
@@ -36,7 +36,7 @@ Level (aka Portfolio)
 Continua
 -The level that each standard is rated on
 -Must be developed and defined consistently to ensure consistency across all evaluators
--Example of a continua[](https://docs.google.com/spreadsheets/d/1ecDsgv0X8NzjUi-0D9b2oF3tqYx-THfaHTtdSmL-2u4/edit#gid=720733250)
+-[Example of a continua](https://docs.google.com/spreadsheets/d/1ecDsgv0X8NzjUi-0D9b2oF3tqYx-THfaHTtdSmL-2u4/edit#gid=720733250)
 
 Override
 -Allows a teacher to immediately complete all remaining evidence requirements at the current level of a specific standard for a specific student
