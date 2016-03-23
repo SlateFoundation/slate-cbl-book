@@ -4,10 +4,10 @@
 * [Glossary](glossary.md)
 * [Business Logic](business_logic.md)
 * [User Interfaces](user_interfaces.md)
+   * Task Dashboard
+       * Teacher Task Gradebook
    * [Competency Overview](competency_overview.md)
    * [Teacher Competency Dashboard](teacher_view.md)
    * [Student Competency Dashboard](student_view.md)
-   * Task Dashboard
-       * Teacher Task Gradebook
 * [Data Exports](data_exports.md)
 
