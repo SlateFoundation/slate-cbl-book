@@ -7,7 +7,7 @@
    * [Competency Overview](competency_overview.md)
        * [Teacher Competency Dashboard](teacher_competency_dashboard.md)
        * [Student Competency Dashboard](student_competency_dashboard.md)
-   * Task Dashboard
+   * Task Management
        * [Teacher Task Gradebook](teacher_task_gradebook.md)
        * [Student Task Management](student_task_management.md)
 * [Data Exports](data_exports.md)
