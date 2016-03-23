@@ -18,5 +18,6 @@ Average score in a competency
 
 Progressing to the next competency level
 -Student earns completion record for competency when they meet these two conditions
--Have at least the minimum number of demonstrations logged for each of that competency standards
--The average score across all standards in that competency is at least X-.5 where X is the current level (e.g. 8.5 minimum average for level 9)
+  -Have at least the minimum number of demonstrations logged for each of that competency standards
+  -The average score across all standards in that competency is at least X-.5 where X is the current level (e.g. 8.5 minimum average for level 9)
+-In the future, growth criteria should be added as an alternative promotion metric where growth is calculated as the average of the most recent demonstration for each standard minus the average of the first demonstration for each standard
