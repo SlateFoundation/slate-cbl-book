@@ -14,4 +14,8 @@
 
 ###Past Tasks
 - Summary of all completed and rated tasks for a given section
-- 
+- Specifies the number of skills associated with a given task and how many were rated on and below the current level for that skill
+
+###Submitting a Task
+- After opening a task, students can view all relvant information as well as add links and attachments 
+- When ready, students submit the task and any associated documents to a teacher for rating
