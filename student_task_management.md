@@ -12,6 +12,6 @@
 - When completed, To Do items move to the Completed Items seciton 
 - Clearing completed items occurs one at a time or thourgh the Clear All button
 
-###Portfolio
+###Past Tasks
 - Summary of all completed and rated tasks for a given section
 - 
