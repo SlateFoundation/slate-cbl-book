@@ -8,5 +8,6 @@
    * [Teacher Competency Dashboard](teacher_view.md)
    * [Student Competency Dashboard](student_view.md)
    * Task Dashboard
+       * Teacher Task Gradebook
 * [Data Exports](data_exports.md)
 
