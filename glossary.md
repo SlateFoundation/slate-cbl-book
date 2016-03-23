@@ -75,3 +75,10 @@
 -A task can be a subtask of another task
 -Skills and ratings are kept independently and not rolled up to the parent task
 -Only one level of sub tasks is allowed (no sub-sub tasks)
+
+###To Do List
+-Student created items that are associated with a specific section or a personal list
+
+###Portfolio
+-A list of completed and submitted tasks in a given section
+-A holistic portfolio view aggregates the portfolios of each section into a single page
