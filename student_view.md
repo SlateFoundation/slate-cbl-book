@@ -1,4 +1,4 @@
-# Student View
+# Student Competency Dashboard
 
 Recent Progress
 -The 10 most recent demonstrations logged for that student are shown
