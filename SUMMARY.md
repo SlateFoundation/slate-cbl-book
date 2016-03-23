@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Glossary
+* [Glossary](glossary.md)
 
