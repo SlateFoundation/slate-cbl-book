@@ -1,4 +1,4 @@
-# Teacher View
+# Teacher Competency Dashboard
 
 Selecting a Student Group 
 -The drop down menu “Students” produces a menu of all course sections and groups in Slate
