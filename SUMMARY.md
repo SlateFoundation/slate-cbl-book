@@ -6,6 +6,7 @@
 * [User Interfaces](user_interfaces.md)
    * Task Dashboard
        * [Teacher Task Gradebook](teacher_task_gradebook.md)
+       * Student Task Management
    * [Competency Overview](competency_overview.md)
    * [Teacher Competency Dashboard](teacher_view.md)
    * [Student Competency Dashboard](student_view.md)
