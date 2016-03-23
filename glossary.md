@@ -83,5 +83,5 @@
 - Student created items that are associated with a specific section or a personal list
 
 ###Portfolio
-- A list of completed and submitted tasks in a given section
-- A holistic portfolio view aggregates the portfolios of each section into a single page
+- A list of all completed and submitted tasks done by a student
+- The holistic portfolio view aggregates the Past Tasks of each section into a single page
