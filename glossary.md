@@ -35,6 +35,9 @@
 - Ranges from 1-12 for Building21's model 
 - [Example of a continua](https://docs.google.com/spreadsheets/d/1ecDsgv0X8NzjUi-0D9b2oF3tqYx-THfaHTtdSmL-2u4/edit#gid=720733250)
 
+###Rating
+- The term rating is used instead of "grading" when evaluating a demonstration or task
+
 ##Competency Dashboard
 ####Evidence Requirements
 - The number of demonstrations required for a specific standard to progress to the next level
@@ -52,7 +55,7 @@
 - Typically occurs when a teacher intends for an assignment to cover specific standards and the student does not address that standard in the assignment
 
 ###Minimum passing threshold
-- Within each competency, the average score required to progress to the next level
+- Within each competency, the average rating required to progress to the next level
 - Currently set globally as X-.5, where X is the current level (e.g. an 8.5 average is required for a level 9 competency)
 - In the future, should be able to set this by individual student and competency
 - Calculated as the average of all the scores that show on the dashboard in a given competency (ie if low level demonstrations are pushed off because higher ones are logged, they do not count towards the average)
