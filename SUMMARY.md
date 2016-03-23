@@ -5,8 +5,6 @@
 * [Business Logic](business_logic.md)
 * [User Interfaces](user_interfaces.md)
    * Task Dashboard
-       * Teacher Task Gradebook
-   * Task Dashboard
        * [Teacher Task Gradebook](teacher_task_gradebook.md)
    * [Competency Overview](competency_overview.md)
    * [Teacher Competency Dashboard](teacher_view.md)
