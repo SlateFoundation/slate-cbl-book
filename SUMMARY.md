@@ -4,8 +4,8 @@
 * [Glossary](glossary.md)
 * [Business Logic](business_logic.md)
 * [User Interfaces](user_interfaces.md)
-   * [Competency Overview](competency_overview.md)
    * [Teacher Competency Dashboard](teacher_view.md)
+   * [Competency Overview](competency_overview.md)
    * [Student Competency Dashboard](student_view.md)
 * [Data Exports](data_exports.md)
 
