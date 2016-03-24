@@ -1,0 +1,5 @@
+# Glossary
+
+## foo
+
+bar
