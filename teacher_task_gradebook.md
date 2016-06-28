@@ -1,4 +1,4 @@
-# Teacher Task Management
+# Teacher Task Dashboard
 ###Create a Task
 - Teachers can create a task in the teacher task interface.
 - Optionally, creators of tasks can add them to the task database for future use by others by selecting a check box in the task creation window.
