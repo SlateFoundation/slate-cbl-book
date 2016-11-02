@@ -8,10 +8,8 @@
     * [Teacher Competency Dashboard](user_interfaces/competencies/teachers.md)
     * [Student Competency Dashboard](user_interfaces/competencies/students.md)
   * [Task Management](user_interfaces/tasks/README.md)
-    * [Teacher Task Dashboard](teacher_task_gradebook.md)
-    * [Student Task Management](student_task_management.md)
+    * [Teacher Tasks Dashboard](user_interfaces/tasks/teachers.md)
+    * [Student Tasks Dashboard](user_interfaces/tasks/students.md)
     * [Task Database](task_database.md)
-
-
-* [Data Exports](data_exports.md)
+* [Data Exports](exports/README.md)
 
