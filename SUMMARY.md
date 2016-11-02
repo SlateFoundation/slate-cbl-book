@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Glossary](glossary.md)
-* [Business Logic](business_logic.md)
+* [Business Logic](business_logic/README.md)
 * [User Interfaces](user_interfaces/README.md)
   * [Competency Overview](competency_overview.md)
     * [Teacher Competency Dashboard](teacher_competency_dashboard.md)
