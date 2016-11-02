@@ -10,6 +10,5 @@
   * [Task Management](user_interfaces/tasks/README.md)
     * [Teacher Tasks Dashboard](user_interfaces/tasks/teachers.md)
     * [Student Tasks Dashboard](user_interfaces/tasks/students.md)
-    * [Task Database](task_database.md)
+    * [Tasks Database](user_interfaces/tasks/database.md)
 * [Data Exports](exports/README.md)
-
