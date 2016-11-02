@@ -1,2 +1,2 @@
-# Getting started with development
+# Getting Started with Development
 
