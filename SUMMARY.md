@@ -13,8 +13,8 @@
         * [Tasks Database](user_interfaces/tasks/database.md)
 * [Data Exports](exports/README.md)
 * [Development](development.md)
-    * [Getting started with development](development/getting_started.md)
-    * [Contributing improvements](development/contributing.md)
-    * [Making a release](development/releases.md)
-    * [Deploying a release](development/deployment.md)
+    * [Getting Started with Development](development/getting_started.md)
+    * [Contributing Improvements](development/contributing.md)
+    * [Making a Release](development/releases.md)
+    * [Deploying a Release](development/deployment.md)
 
