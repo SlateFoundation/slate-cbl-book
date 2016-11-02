@@ -1,6 +1,6 @@
 # Development
 
-- Getting started with development
-- Contributing improvements
-- Making a release
-- Deploying a release
+- [Getting started with development](development/getting_started.md)
+- [Contributing improvements](development/contributing.md)
+- [Making a release](development/releases.md)
+- [Deploying a release](development/deployment.md)
