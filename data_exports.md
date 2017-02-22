@@ -27,12 +27,14 @@
 
 * Organized with a unique row for each student for each competency \(total number of rows for each student equals the total number of active or completed competency portfolio levels\)
 * Each competency lists the portfolio level, average performance level, growth, progress %, total evidence requirements, total opportunities, total completed evidence requirements, total rated evidence requirements \(non M or Override\) and total missed evidence requirements
+  * Growth is calculated by including only the skills that have multiple numerical ratings \(not M or Override\). For each skill you subtract the oldest from the most recent demonstration and then average this skill growth with all the other skills \(in that competency and portfolio level\) that had multiple numerical logs. 
 * Example of download URL: /cbl/exports/competencies-details?students=group+class\_of\_2018
 
 ### Content-areas \(CSV\)
 
 * Organized with a unique row for each student for each content area level \(total number of rows for each student equals the total number of completed or active content area portfolio levels\)
 * Each content area row lists the portfolio level, performance level, growth, progress %, total evidence requirements, total opportunities, completed evidence requirements, rated evidence requirements \(non M or Override\), and missed evidence requirements  
+  * Growth is calculated by including only the skills that have multiple numerical ratings \(not M or Override\). For each skill you subtract the oldest from the most recent demonstration and then average this skill growth with all the other skills \(in the content area and portfolio level\) that had multiple numerical logs.
 * Example of download URL: /cbl/exports/content-areas?students=group+class\_of\_2018
 
 ### Tasks \(CSV\)
