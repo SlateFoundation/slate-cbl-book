@@ -27,14 +27,14 @@
 
 * Organized with a unique row for each student for each competency \(total number of rows for each student equals the total number of active or completed competency portfolio levels\)
 * Each competency lists the portfolio level, average performance level, growth, progress %, total evidence requirements, total opportunities, total completed evidence requirements, total rated evidence requirements \(non M or Override\) and total missed evidence requirements
-  * Growth is calculated by including only the skills that have multiple numerical ratings \(not M or Override\). For each skill you subtract the oldest from the most recent demonstration and then average this skill growth with all the other skills \(in that competency and portfolio level\) that had multiple numerical logs. 
+  * Growth is calculated by including only the skills that have multiple numerical ratings \(not M or Override\). For each skill, you subtract the oldest from the most recent demonstration and then average this skill growth with all the other skills in that competency and portfolio level that had multiple numerical logs \(and thus could calculate growth\). Skills that have only one demonstration can not have growth and thus are NULL for growth. If within a competency, only one skill has growth for the given portfolio level, the growth of the competency equals the growth of that one skill. 
 * Example of download URL: /cbl/exports/competencies-details?students=group+class\_of\_2018
 
 ### Content-areas \(CSV\)
 
 * Organized with a unique row for each student for each content area level \(total number of rows for each student equals the total number of completed or active content area portfolio levels\)
 * Each content area row lists the portfolio level, performance level, growth, progress %, total evidence requirements, total opportunities, completed evidence requirements, rated evidence requirements \(non M or Override\), and missed evidence requirements  
-  * Growth is calculated by including only the skills that have multiple numerical ratings \(not M or Override\). For each skill you subtract the oldest from the most recent demonstration and then average this skill growth with all the other skills \(in the content area and portfolio level\) that had multiple numerical logs.
+  * Growth is calculated by including only the skills that have two or more numerical ratings \(not M or Override\). For each skill, you subtract the oldest from the most recent demonstration and then average this skill growth with all the other skills that have growth in the given competency at that level. Then, you average the growth for each competency to calculate the growth for the content area. This means that if a single skill within a competency is the only one that has growth, the growth for that skill is treated as the competency growth and factors strongly into the averaging. If no skill in a competency has growth \(they're all NULL\), then the competency growth is NULL and should not count towards the content-area growth average. 
 * Example of download URL: /cbl/exports/content-areas?students=group+class\_of\_2018
 
 ### Tasks \(CSV\)
