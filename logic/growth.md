@@ -21,3 +21,5 @@ If at least half the skills in a competency have growth calculations available, 
 
 
 ## Content Area Growth
+
+If at least one competency has a growth calculation available, growth for the content area is calculated as the average of all available competency growth calculations.
