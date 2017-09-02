@@ -8,6 +8,7 @@
   * Student Competencies
 * [Logic](logic/README.md)
   * [Missed Demonstrations](logic/missed-demonstrations.md)
+  * Growth
 * [User Interfaces](user_interfaces/README.md)
   * [Competency Overview](user_interfaces/competencies/README.md)
     * [Teacher Competency Dashboard](user_interfaces/competencies/teachers.md)
