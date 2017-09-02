@@ -3,24 +3,24 @@
 * [Introduction](README.md)
 * [Glossary](glossary.md)
 * [Data](data/README.md)
-  * [Content Areas](data/content-areas.md)
-  * Demonstrations
-  * Student Competencies
+    * [Content Areas](data/content-areas.md)
+    * Demonstrations
+    * Student Competencies
 * [Logic](logic/README.md)
-  * [Missed Demonstrations](logic/missed-demonstrations.md)
-  * Growth
+    * [Missed Demonstrations](logic/missed-demonstrations.md)
+    * Growth
 * [User Interfaces](user_interfaces/README.md)
-  * [Competency Overview](user_interfaces/competencies/README.md)
-    * [Teacher Competency Dashboard](user_interfaces/competencies/teachers.md)
-    * [Student Competency Dashboard](user_interfaces/competencies/students.md)
-  * [Task Management](user_interfaces/tasks/README.md)
-    * [Teacher Tasks Dashboard](user_interfaces/tasks/teachers.md)
-    * [Student Tasks Dashboard](user_interfaces/tasks/students.md)
-    * [Tasks Database](user_interfaces/tasks/database.md)
+    * [Competency Overview](user_interfaces/competencies/README.md)
+        * [Teacher Competency Dashboard](user_interfaces/competencies/teachers.md)
+        * [Student Competency Dashboard](user_interfaces/competencies/students.md)
+    * [Task Management](user_interfaces/tasks/README.md)
+        * [Teacher Tasks Dashboard](user_interfaces/tasks/teachers.md)
+        * [Student Tasks Dashboard](user_interfaces/tasks/students.md)
+        * [Tasks Database](user_interfaces/tasks/database.md)
 * [Data Exports](exports/README.md)
 * [Development](development.md)
-  * [Getting Started with Development](development/getting_started.md)
-  * [Contributing Improvements](development/contributing.md)
-  * [Making a Release](development/releases.md)
-  * [Deploying a Release](development/deployment.md)
+    * [Getting Started with Development](development/getting_started.md)
+    * [Contributing Improvements](development/contributing.md)
+    * [Making a Release](development/releases.md)
+    * [Deploying a Release](development/deployment.md)
 
