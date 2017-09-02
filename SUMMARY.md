@@ -2,7 +2,8 @@
 
 * [Introduction](README.md)
 * [Glossary](glossary.md)
-* [Data and Logic](data_and_logic/README.md)
+* [Data](data/README.md)
+* [Logic](logic/README.md)
 * [User Interfaces](user_interfaces/README.md)
   * [Competency Overview](user_interfaces/competencies/README.md)
     * [Teacher Competency Dashboard](user_interfaces/competencies/teachers.md)
