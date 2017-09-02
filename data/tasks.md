@@ -12,6 +12,8 @@ StudentTask -- Student
 StudentTask -- Section
 StudentTask -- Demonstration
 StudentTaskSkill --> Skill
+Task --* TaskAttachment
+StudentTask --* TaskAttachment
 
 Task : Title
 Task : DueDate
@@ -24,4 +26,7 @@ StudentTask : ExperienceType
 StudentTask : DueDate
 StudentTask : ExpirationDate
 StudentTask : Status [private/shared/deleted]
+
+TaskAttachment : Type [GoogleDriveFile/Link]
+
 ```
