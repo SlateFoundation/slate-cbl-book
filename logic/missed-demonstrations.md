@@ -1,8 +1,4 @@
-# Business Logic
-
-*TODO: insert screenshots of competency dashboard with logic annotated as demonstrations, missed demonstrations, and overrides get added*
-
-## Missed Demonstrations
+# Missed Demonstrations
 
 The number of missed demonstrations for a given student+skill is calculated as follows:
 
