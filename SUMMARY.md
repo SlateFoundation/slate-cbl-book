@@ -21,7 +21,7 @@
 * [Data Exports](exports/README.md)
 * [Setup](setup/README.md)
   * [Importing Competency Maps](setup/importing-competency-maps.md)
-* [Development](development.md)
+* [Development](development/README.md)
   * [Getting Started with Development](development/getting_started.md)
   * [Contributing Improvements](development/contributing.md)
   * [Making a Release](development/releases.md)
