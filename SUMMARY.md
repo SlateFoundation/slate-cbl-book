@@ -19,6 +19,8 @@
     * [Student Tasks Dashboard](user_interfaces/tasks/students.md)
     * [Tasks Database](user_interfaces/tasks/database.md)
 * [Data Exports](exports/README.md)
+* [Setup](setup/README.md)
+  * [Importing Competency Maps](setup/importing-competency-maps.md)
 * [Development](development.md)
   * [Getting Started with Development](development/getting_started.md)
   * [Contributing Improvements](development/contributing.md)
